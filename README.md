@@ -3,4 +3,4 @@ Face Detection App using Clarify
 Node.Js server, 
 postgresql database, 
 connected with knex, 
-using bcrypt to hash passwords
+bcrypt to hash passwords
